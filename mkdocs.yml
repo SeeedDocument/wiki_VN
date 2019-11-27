@@ -96,7 +96,13 @@ extra_javascript:
 # Page tree
 pages:
   - Seeed Wiki: 'index.md'
-
+  
+  - Grove Kit:
+      - Grove kit:
+          - Grove - Base Kit for Raspberry Pi: Grove_Base_Kit_for_Raspberry_Pi.md
+          - Grove - Beginner Kit for Arduino: Grove_Beginner_Kit_for_Arduino.md
+          - Grove - Inventor Kit for micro:bit: Grove_Inventor_Kit_for_microbit.md
+          - Grove - Starter Kit: Grove-Starter-Kit.md
 
   - Grove Cảm biến:
       - Grove Cảm biến:
