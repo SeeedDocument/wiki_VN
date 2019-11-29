@@ -2,7 +2,7 @@
 
 
 
-##Platform
+## nền tảng
 
 <p>
 <div class="pic" style="width:33%"><a href="http://wiki.seeedstudio.com/Arduino/"> 
@@ -32,7 +32,7 @@
 </p>
 
 
-##Grove
+## Grove
 
 <p>
 <div class="pic" style="width:33%"><a href="http://wiki.seeedstudio.com/Sensor/"> 
@@ -53,7 +53,7 @@
 </p>
 
 
-##IOT/Maker Pro/Tutorial
+## IOT/Maker Pro/Hướng dẫn
 
 <p>
 <div class="pic" style="width:33%"><a href="http://wiki.seeedstudio.com/IoT/">
@@ -65,12 +65,21 @@
 </p>
 
 
-## Copyright/License
+## Bản quyền / Giấy phép
 -------
-Copyright (c) 2018-2017 Seeed Inc. (https://www.seeedstudio.com). All documents and pictures align with <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"> </a>. 
 
-## Tech Support
-Please submit any technical issue into our [forum](http://forum.seeedstudio.com/) or drop mail to techsupport@seeed.cc 
+
+Copyright © 2018-2017 Seeed Inc. (https://www.seeedstudio.com). Tất cả các tài liệu và hình ảnh phù hợp với Giấy phép Quốc tế [Creative Commons Attribution-ShareAlike 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+
+## Hô trợ ky thuật
+
+Vui lòng gửi bất kỳ vấn đề kỹ thuật nào vào diễn đàn của chúng tôi hoặc gửi thư đến 
+
+techsupport@seeed.cc
+
+[http://forum.seeedstudio.com](http://forum.seeedstudio.com)
+
+
 
 
 
